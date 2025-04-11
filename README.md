@@ -12,7 +12,9 @@ QuadVision aims to deliver an intelligent, adaptive, and interpretable image seg
 
 
 🧪 Methodology
+
 Overview
+
 QuadVision intelligently segments grayscale images using a hybrid approach combining:
 
 •	QuadTree decomposition — to adaptively segment based on regional intensity variance.
