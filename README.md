@@ -186,7 +186,7 @@ Steps:
 
 bash:
 
- git clone https://github.com/your-username/QuadVision_Intelligent_Image_Segmentation.git
+ git clone (https://github.com/Nithyasree0602/QuadVision.git)
  
  cd QuadVision_Intelligent_Image_Segmentation
  
