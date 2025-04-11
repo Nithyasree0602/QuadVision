@@ -12,9 +12,7 @@ QuadVision aims to deliver an intelligent, adaptive, and interpretable image seg
 
 
 🧪 Methodology
-
 Overview
-
 QuadVision intelligently segments grayscale images using a hybrid approach combining:
 
 •	QuadTree decomposition — to adaptively segment based on regional intensity variance.
@@ -118,10 +116,6 @@ bash:
 streamlit run app.py
 
 
-📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
 🌐 Author
 
 Nithya Sree 
@@ -129,4 +123,4 @@ Nithya Sree
 
 
 ⭐ Star this repo to support the project!
-"# QuadVision" 
+"QuadVision" 
